@@ -18,6 +18,8 @@ body {
 
 h1 {
     font-size: 50px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 p {
